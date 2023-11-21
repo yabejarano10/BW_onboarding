@@ -17,7 +17,7 @@ public class checkContinue : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!listManager.canContinue())
+        if (listManager != null && !listManager.canContinue())
         {
             button.enabled = false;
         }

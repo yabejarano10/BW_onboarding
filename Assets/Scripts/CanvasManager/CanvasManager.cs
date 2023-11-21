@@ -9,7 +9,13 @@ public enum CanvasType
     WelcomeCanvas,
     ParentInterestCanvas,
     CustomizeCanvas,
-    BirthdayCanvas
+    BirthdayCanvas,
+    MonthCanvas,
+    LanguageCanvas,
+    FavoriteCanvas,
+    FavoriteThingsCanvas,
+    AvatarCanvas,
+    SignUpCanvas
 }
 public class CanvasManager : Singleton<CanvasManager>
 {
