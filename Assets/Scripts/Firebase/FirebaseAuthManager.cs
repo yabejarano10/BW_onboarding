@@ -127,12 +127,12 @@ public class FirebaseAuthManager : MonoBehaviour
         {
             ShowToast("GO REGISTER");
             var signupTask= auth.CreateUserWithEmailAndPasswordAsync(email, password);
-            //yield return new WaitUntil(() => signupTask.IsCompleted);
+            yield return new WaitUntil(() => signupTask.IsCompleted);
 
-            signupTask.ContinueWith(task => {
+            //signupTask.ContinueWith(task => {
 
                 ShowToast("END REGISTER");
-                if (task.IsFaulted || task.IsCanceled)
+                if (signupTask.Exception != null)
                 {
                     ShowToast("FULL ERROR REGISTER");
                     Debug.LogError(signupTask.Exception);
@@ -205,7 +205,7 @@ public class FirebaseAuthManager : MonoBehaviour
 
                 }
 
-            });
+           // });
             yield return null;
 
         }
