@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "990973157705-ua304p4ra2i0vv1a6k5chp3mjhckr1st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bwstudios.onboarding",
+            "certificate_hash": "ba7cb83d20c92163a928057e9f6b3808a946ba01"
+          }
+        },
+        {
           "client_id": "990973157705-2638gsn7enst5ks3fgfjag92sdrb80qd.apps.googleusercontent.com",
           "client_type": 3
         }

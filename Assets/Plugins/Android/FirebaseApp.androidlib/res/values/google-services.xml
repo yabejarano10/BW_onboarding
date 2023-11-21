@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
   <string name="gcm_defaultSenderId" translatable="false">990973157705</string>
   <string name="google_storage_bucket" translatable="false">bwonboarding-7bf04.appspot.com</string>
   <string name="project_id" translatable="false">bwonboarding-7bf04</string>
   <string name="google_api_key" translatable="false">AIzaSyBCg8pMKS_0KbttE7O3WFBGjeGibuLgdFk</string>
   <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCg8pMKS_0KbttE7O3WFBGjeGibuLgdFk</string>
   <string name="google_app_id" translatable="false">1:990973157705:android:c8fd4bed9a41aaec1e3a98</string>
+  <string name="default_android_client_id" translatable="false">990973157705-ua304p4ra2i0vv1a6k5chp3mjhckr1st.apps.googleusercontent.com</string>
   <string name="default_web_client_id" translatable="false">990973157705-2638gsn7enst5ks3fgfjag92sdrb80qd.apps.googleusercontent.com</string>
 </resources>
