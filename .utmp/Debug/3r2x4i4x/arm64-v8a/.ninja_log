@@ -1,0 +1,5 @@
+# ninja log v5
+90	205	7222266429063227	D:/repos/BW_onboarding/Library/PramData/AndroidApplicationController/Cache/com.bwstudios.onboarding/gradle-project/unityLibrary/build/intermediates/cxx/Debug/3r2x4i4x/obj/arm64-v8a/libswappywrapper.so	a24aa41e01975149
+0	89	7222266428253228	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d0c5887f0e060d72
+3	455	7222320610920270	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d0c5887f0e060d72
+456	905	7222320614342157	D:/repos/BW_onboarding/Library/PramData/AndroidApplicationController/Cache/com.bwstudios.onboarding/gradle-project/unityLibrary/build/intermediates/cxx/Debug/3r2x4i4x/obj/arm64-v8a/libswappywrapper.so	a24aa41e01975149
