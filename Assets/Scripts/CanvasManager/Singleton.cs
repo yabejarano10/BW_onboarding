@@ -14,7 +14,7 @@ public abstract class Singleton<T> : MonoBehaviour where T : Component
 
         if (instance == null)
         {
-            instance = Object.FindFirstObjectByType<T>();
+            instance = Object.FindObjectOfType<T>();
             if (instance == null)
             {
                 GameObject obj = new GameObject();
