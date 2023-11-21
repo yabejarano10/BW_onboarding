@@ -15,7 +15,9 @@ public enum CanvasType
     FavoriteCanvas,
     FavoriteThingsCanvas,
     AvatarCanvas,
-    SignUpCanvas
+    SignUpCanvas,
+    LoginCanvas,
+    Modal
 }
 public class CanvasManager : Singleton<CanvasManager>
 {
@@ -33,7 +35,7 @@ public class CanvasManager : Singleton<CanvasManager>
 
     public void switchCanvas(CanvasType type)
     {
-        if(lastActiveCanvas != null)
+        if(lastActiveCanvas != null && type != CanvasType.Modal)
         {
             lastActiveCanvas.gameObject.SetActive(false);
         }

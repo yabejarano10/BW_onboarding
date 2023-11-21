@@ -102,6 +102,8 @@ public class FirebaseAuthManager : MonoBehaviour
         }
         else
         {
+            Debug.Log("LOG IN");
+            ShowToast("Login Succesfull");
             user = loginTask.Result.User;
 
         }
@@ -114,7 +116,6 @@ public class FirebaseAuthManager : MonoBehaviour
 
     public IEnumerator RegisterAsync(string name, string email, string password)
     {
-        ShowToast("START");
         if (name == "")
         {
             Debug.LogError("Unsername is empty");
@@ -125,16 +126,11 @@ public class FirebaseAuthManager : MonoBehaviour
         }
         else
         {
-            ShowToast("GO REGISTER");
             var signupTask= auth.CreateUserWithEmailAndPasswordAsync(email, password);
             yield return new WaitUntil(() => signupTask.IsCompleted);
 
-            //signupTask.ContinueWith(task => {
-
-                ShowToast("END REGISTER");
                 if (signupTask.Exception != null)
                 {
-                    ShowToast("FULL ERROR REGISTER");
                     Debug.LogError(signupTask.Exception);
 
                     FirebaseException firebaseException = signupTask.Exception.GetBaseException() as FirebaseException;
@@ -165,13 +161,12 @@ public class FirebaseAuthManager : MonoBehaviour
                 }
                 else
                 {
-                    ShowToast("ALL GOOD");
+                    ShowToast("Registered Successfully");  
                     user = signupTask.Result.User;
                     UserProfile userProfile = new UserProfile { DisplayName = name };
                     var updatedProfileTask = user.UpdateUserProfileAsync(userProfile);
-                  //  yield return new WaitUntil(() => updatedProfileTask.IsCompleted);
+                    yield return new WaitUntil(() => updatedProfileTask.IsCompleted);
 
-                    ShowToast("PROFILEEE");
                     if (updatedProfileTask.Exception != null)
                     {
                         user.DeleteAsync();
@@ -205,7 +200,6 @@ public class FirebaseAuthManager : MonoBehaviour
 
                 }
 
-           // });
             yield return null;
 
         }
