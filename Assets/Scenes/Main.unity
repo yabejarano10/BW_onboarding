@@ -6362,8 +6362,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1456250303}
-        m_TargetAssemblyTypeName: FirebaseAuthManager, Assembly-CSharp
+      - m_Target: {fileID: 812986468}
+        m_TargetAssemblyTypeName: CanvasManager, Assembly-CSharp
         m_MethodName: Register
         m_Mode: 1
         m_Arguments:

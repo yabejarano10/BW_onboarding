@@ -56,7 +56,7 @@ public class CanvasManager : Singleton<CanvasManager>
     }
     public void Register()
     {
-        fb.Login();
+        fb.Register();
     }
 
     public void GoogleLogIn()

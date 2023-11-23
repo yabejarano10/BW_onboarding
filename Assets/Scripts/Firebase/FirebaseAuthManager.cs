@@ -151,10 +151,12 @@ public class FirebaseAuthManager : Singleton<FirebaseAuthManager>
         if (name == "")
         {
             Debug.LogError("Unsername is empty");
+            ShowToast("Unsername is empty");
         }
         else if(email == "")
         {
             Debug.Log("email is empty");
+            ShowToast("email is empty");
         }
         else
         {
@@ -275,6 +277,7 @@ public class FirebaseAuthManager : Singleton<FirebaseAuthManager>
 
         try
         {
+
             auth.SignInWithCredentialAsync(credential).ContinueWith(task =>
             {
                 if (task.IsCanceled)
@@ -286,10 +289,17 @@ public class FirebaseAuthManager : Singleton<FirebaseAuthManager>
                 {
                     ShowToast(ex.Message);
                 }
-                ShowToast("Log in Succesfull");
-                SceneManager.LoadScene("LogedIn");
-
+                else
+                {
+                    user = task.Result;
+                    UnityMainThreadDispatcher.Instance().EnqueueAction(() =>
+                    {
+                        ShowToast("Log in Succesfull");
+                        SceneManager.LoadScene("LogedIn");
+                    });
+                }
             });
+
 
         }
         catch(Exception ex)
