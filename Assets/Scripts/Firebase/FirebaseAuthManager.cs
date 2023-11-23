@@ -4,8 +4,13 @@ using UnityEngine.UI;
 using Firebase;
 using Firebase.Auth;
 using TMPro;
+using Google;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System;
+using UnityEngine.SceneManagement;
 
-public class FirebaseAuthManager : MonoBehaviour
+public class FirebaseAuthManager : Singleton<FirebaseAuthManager>
 {
     [Header("Firebase")]
     public DependencyStatus dependencyStatus;
@@ -22,8 +27,18 @@ public class FirebaseAuthManager : MonoBehaviour
     public TMP_InputField emailSignUp;
     public TMP_InputField passwordSignUp;
 
-    private void Awake()
+    [Space]
+    [Header("Google Sign Up")]
+    public string webClientId;
+
+
+    GoogleSignInConfiguration configuration;
+
+
+    protected override void Awake()
     {
+        base.Awake();
+        configuration = new GoogleSignInConfiguration { WebClientId = webClientId, RequestEmail = true, RequestIdToken = true };
         FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
         {
             dependencyStatus = task.Result;
@@ -36,6 +51,10 @@ public class FirebaseAuthManager : MonoBehaviour
                 Debug.LogError("Could not load all dependencies: " + dependencyStatus);
             }
         });
+
+        GoogleSignIn.Configuration = configuration;
+        GoogleSignIn.Configuration.UseGameSignIn = false;
+        GoogleSignIn.Configuration.RequestIdToken = true;
     }
 
     void InitializeFirebase()
@@ -59,9 +78,18 @@ public class FirebaseAuthManager : MonoBehaviour
             }
         }
     }
+    public void LogOut()
+    {
+        auth.SignOut();
+        GoogleSignIn.DefaultInstance.SignOut();
+
+        SceneManager.LoadScene("Main");
+    }
 
     public void Login()
     {
+        email = email != null ?  email : GameObject.Find("LoginEmail").GetComponent<TMP_InputField>();
+        password = password != null ? password : GameObject.Find("LoginPassword").GetComponent<TMP_InputField>();
         StartCoroutine(LoginAsync(email.text, password.text));
     }
 
@@ -105,13 +133,17 @@ public class FirebaseAuthManager : MonoBehaviour
             Debug.Log("LOG IN");
             ShowToast("Login Succesfull");
             user = loginTask.Result.User;
+            SceneManager.LoadScene("LogedIn");
 
         }
     }
 
     public void Register()
     {
-        StartCoroutine(RegisterAsync(name, emailSignUp.text, passwordSignUp.text));
+        nameSignUp = nameSignUp != null ? nameSignUp : GameObject.Find("name").GetComponent<TMP_InputField>();
+        emailSignUp = emailSignUp != null ? emailSignUp : GameObject.Find("emailSignUp").GetComponent<TMP_InputField>();
+        passwordSignUp = passwordSignUp != null ? passwordSignUp : GameObject.Find("passSignUp").GetComponent<TMP_InputField>();
+        StartCoroutine(RegisterAsync(nameSignUp.text, emailSignUp.text, passwordSignUp.text));
     }
 
     public IEnumerator RegisterAsync(string name, string email, string password)
@@ -197,11 +229,72 @@ public class FirebaseAuthManager : MonoBehaviour
                         }
                         ShowToast(errorMessage);
                     }
+                    SceneManager.LoadScene("LogedIn");
 
-                }
+            }
 
             yield return null;
 
+        }
+    }
+
+    public void GoogleLogIn()
+    {
+        
+        GoogleSignIn.DefaultInstance.SignIn().ContinueWith(OnAuthenticationFinished);
+    }
+    internal void OnAuthenticationFinished(Task<GoogleSignInUser> task)
+    {
+        try
+        {
+
+            if (task.IsFaulted)
+            {
+                using (IEnumerator<Exception> enumerator = task.Exception.InnerExceptions.GetEnumerator())
+                {
+                    if (enumerator.MoveNext())
+                    {
+                        GoogleSignIn.SignInException error = (GoogleSignIn.SignInException)enumerator.Current;
+                        ShowToast(error.Message);
+                    }
+                }
+            }
+            else
+            {
+                SignInWithGoogleOnFirebase(task.Result.IdToken);
+            }
+        }
+        catch(Exception ex)
+        {
+            ShowToast(ex.Message);
+        }
+    }
+    private void SignInWithGoogleOnFirebase(string idToken)
+    {
+        Credential credential = GoogleAuthProvider.GetCredential(idToken, null);
+
+        try
+        {
+            auth.SignInWithCredentialAsync(credential).ContinueWith(task =>
+            {
+                if (task.IsCanceled)
+                {
+                    ShowToast("SignInWithCredentialAsync was canceled.");
+                }
+                AggregateException ex = task.Exception;
+                if (ex != null)
+                {
+                    ShowToast(ex.Message);
+                }
+                ShowToast("Log in Succesfull");
+                SceneManager.LoadScene("LogedIn");
+
+            });
+
+        }
+        catch(Exception ex)
+        {
+            ShowToast(ex.Message);
         }
     }
 

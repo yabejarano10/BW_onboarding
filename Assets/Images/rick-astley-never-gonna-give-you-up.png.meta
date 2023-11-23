@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 2581a6f273c4fe94689547c874d88da1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6419998259941055896
+    second: rick-astley-never-gonna-give-you-up_0
+  - first:
+      213: 2129981762198361438
+    second: rick-astley-never-gonna-give-you-up_1
+  - first:
+      213: 3031374467876131535
+    second: rick-astley-never-gonna-give-you-up_2
+  - first:
+      213: -65093615108143681
+    second: rick-astley-never-gonna-give-you-up_3
+  - first:
+      213: 5646551450172446464
+    second: rick-astley-never-gonna-give-you-up_4
+  - first:
+      213: -66056822351900690
+    second: rick-astley-never-gonna-give-you-up_5
+  - first:
+      213: -6337476999919485733
+    second: rick-astley-never-gonna-give-you-up_6
+  - first:
+      213: 4693200292325839935
+    second: rick-astley-never-gonna-give-you-up_7
+  - first:
+      213: -8343794033935786161
+    second: rick-astley-never-gonna-give-you-up_8
+  - first:
+      213: -2407916233777689583
+    second: rick-astley-never-gonna-give-you-up_9
+  - first:
+      213: -2636222442641012150
+    second: rick-astley-never-gonna-give-you-up_10
+  - first:
+      213: -3390959095903622369
+    second: rick-astley-never-gonna-give-you-up_11
+  - first:
+      213: -3140853636468367838
+    second: rick-astley-never-gonna-give-you-up_12
+  - first:
+      213: 1376924829810563697
+    second: rick-astley-never-gonna-give-you-up_13
+  - first:
+      213: 2956139196921190408
+    second: rick-astley-never-gonna-give-you-up_14
+  - first:
+      213: 4821696369466220872
+    second: rick-astley-never-gonna-give-you-up_15
+  - first:
+      213: -3169677336411877908
+    second: rick-astley-never-gonna-give-you-up_16
+  - first:
+      213: -8623790806499059035
+    second: rick-astley-never-gonna-give-you-up_17
+  - first:
+      213: -4264048670452531681
+    second: rick-astley-never-gonna-give-you-up_18
+  - first:
+      213: -8323917226759102964
+    second: rick-astley-never-gonna-give-you-up_19
+  - first:
+      213: 8959836969926985298
+    second: rick-astley-never-gonna-give-you-up_20
+  - first:
+      213: -2545220937322028547
+    second: rick-astley-never-gonna-give-you-up_21
+  - first:
+      213: -1425621861558423558
+    second: rick-astley-never-gonna-give-you-up_22
+  - first:
+      213: -2048811138499962790
+    second: rick-astley-never-gonna-give-you-up_23
+  - first:
+      213: -4421663774092569939
+    second: rick-astley-never-gonna-give-you-up_24
+  - first:
+      213: 5620146338972640986
+    second: rick-astley-never-gonna-give-you-up_25
+  - first:
+      213: -3667618440820494507
+    second: rick-astley-never-gonna-give-you-up_26
+  - first:
+      213: 7509211242140930027
+    second: rick-astley-never-gonna-give-you-up_27
+  - first:
+      213: -8939651719356050258
+    second: rick-astley-never-gonna-give-you-up_28
+  - first:
+      213: 6105696289491598981
+    second: rick-astley-never-gonna-give-you-up_29
+  - first:
+      213: 8410854563720323751
+    second: rick-astley-never-gonna-give-you-up_30
+  - first:
+      213: -607660536718207393
+    second: rick-astley-never-gonna-give-you-up_31
+  - first:
+      213: 5787035069827512501
+    second: rick-astley-never-gonna-give-you-up_32
+  - first:
+      213: 2023645588756080062
+    second: rick-astley-never-gonna-give-you-up_33
+  - first:
+      213: 8667206239017656421
+    second: rick-astley-never-gonna-give-you-up_34
+  - first:
+      213: -7172902049332903887
+    second: rick-astley-never-gonna-give-you-up_35
+  - first:
+      213: -2910965654322422512
+    second: rick-astley-never-gonna-give-you-up_36
+  - first:
+      213: -8822431306602751566
+    second: rick-astley-never-gonna-give-you-up_37
+  - first:
+      213: 1957721288346304800
+    second: rick-astley-never-gonna-give-you-up_38
+  - first:
+      213: 4463976751400878079
+    second: rick-astley-never-gonna-give-you-up_39
+  - first:
+      213: 3907176143786502346
+    second: rick-astley-never-gonna-give-you-up_40
+  - first:
+      213: -6520957019609778859
+    second: rick-astley-never-gonna-give-you-up_41
+  - first:
+      213: -1745722974354716043
+    second: rick-astley-never-gonna-give-you-up_42
+  - first:
+      213: -2709439864590570965
+    second: rick-astley-never-gonna-give-you-up_43
+  - first:
+      213: -6628927506125866714
+    second: rick-astley-never-gonna-give-you-up_44
+  - first:
+      213: -5623606081935920672
+    second: rick-astley-never-gonna-give-you-up_45
+  - first:
+      213: 7051105398338085758
+    second: rick-astley-never-gonna-give-you-up_46
+  - first:
+      213: 7317629853477091548
+    second: rick-astley-never-gonna-give-you-up_47
+  - first:
+      213: -6389988444584404445
+    second: rick-astley-never-gonna-give-you-up_48
+  - first:
+      213: 1070430988175091927
+    second: rick-astley-never-gonna-give-you-up_49
+  - first:
+      213: 7223797291640291782
+    second: rick-astley-never-gonna-give-you-up_50
+  - first:
+      213: -5646997618308133939
+    second: rick-astley-never-gonna-give-you-up_51
+  - first:
+      213: -1582837031571626363
+    second: rick-astley-never-gonna-give-you-up_52
+  - first:
+      213: 2997699738498546447
+    second: rick-astley-never-gonna-give-you-up_53
+  - first:
+      213: -4358936288257385177
+    second: rick-astley-never-gonna-give-you-up_54
+  - first:
+      213: -811191399588333177
+    second: rick-astley-never-gonna-give-you-up_55
+  - first:
+      213: -949279961934636825
+    second: rick-astley-never-gonna-give-you-up_56
+  - first:
+      213: 5379998844307687072
+    second: rick-astley-never-gonna-give-you-up_57
+  - first:
+      213: 6743235353530306238
+    second: rick-astley-never-gonna-give-you-up_58
+  - first:
+      213: -4659885245041632681
+    second: rick-astley-never-gonna-give-you-up_59
+  - first:
+      213: -488744061633225326
+    second: rick-astley-never-gonna-give-you-up_60
+  - first:
+      213: -6224978976672850938
+    second: rick-astley-never-gonna-give-you-up_61
+  - first:
+      213: 4242124562433725323
+    second: rick-astley-never-gonna-give-you-up_62
+  - first:
+      213: -8260103524197868659
+    second: rick-astley-never-gonna-give-you-up_63
+  - first:
+      213: -6958117766643740790
+    second: rick-astley-never-gonna-give-you-up_64
+  - first:
+      213: -8755305835243176276
+    second: rick-astley-never-gonna-give-you-up_65
+  - first:
+      213: 7513809064376599747
+    second: rick-astley-never-gonna-give-you-up_66
+  - first:
+      213: 290238934154573621
+    second: rick-astley-never-gonna-give-you-up_67
+  - first:
+      213: -1506480540386292172
+    second: rick-astley-never-gonna-give-you-up_68
+  - first:
+      213: 450839930608792437
+    second: rick-astley-never-gonna-give-you-up_69
+  - first:
+      213: 3793418912565199309
+    second: rick-astley-never-gonna-give-you-up_70
+  - first:
+      213: -6438353614756272992
+    second: rick-astley-never-gonna-give-you-up_71
+  - first:
+      213: -1829481450489495947
+    second: rick-astley-never-gonna-give-you-up_72
+  - first:
+      213: 4701434157009441799
+    second: rick-astley-never-gonna-give-you-up_73
+  - first:
+      213: -7484201154481693595
+    second: rick-astley-never-gonna-give-you-up_74
+  - first:
+      213: -1213055743372218173
+    second: rick-astley-never-gonna-give-you-up_75
+  - first:
+      213: 6518853203812464751
+    second: rick-astley-never-gonna-give-you-up_76
+  - first:
+      213: 1715160906770081680
+    second: rick-astley-never-gonna-give-you-up_77
+  - first:
+      213: 3330281275092136492
+    second: rick-astley-never-gonna-give-you-up_78
+  - first:
+      213: -5505552527281739684
+    second: rick-astley-never-gonna-give-you-up_79
+  - first:
+      213: 6930319245545286772
+    second: rick-astley-never-gonna-give-you-up_80
+  - first:
+      213: 1278307264850911071
+    second: rick-astley-never-gonna-give-you-up_81
+  - first:
+      213: 6235262079683039399
+    second: rick-astley-never-gonna-give-you-up_82
+  - first:
+      213: -5820196645789975504
+    second: rick-astley-never-gonna-give-you-up_83
+  - first:
+      213: 3172661307628225803
+    second: rick-astley-never-gonna-give-you-up_84
+  - first:
+      213: 8041628480739271177
+    second: rick-astley-never-gonna-give-you-up_85
+  - first:
+      213: 7726822343972474830
+    second: rick-astley-never-gonna-give-you-up_86
+  - first:
+      213: -8050503379234089473
+    second: rick-astley-never-gonna-give-you-up_87
+  - first:
+      213: 2153866599652904913
+    second: rick-astley-never-gonna-give-you-up_88
+  - first:
+      213: -3855091743174636017
+    second: rick-astley-never-gonna-give-you-up_89
+  - first:
+      213: 6552113285176273677
+    second: rick-astley-never-gonna-give-you-up_90
+  - first:
+      213: -3211740532742961646
+    second: rick-astley-never-gonna-give-you-up_91
+  - first:
+      213: -1827988096556692171
+    second: rick-astley-never-gonna-give-you-up_92
+  - first:
+      213: 6939356954932366632
+    second: rick-astley-never-gonna-give-you-up_93
+  - first:
+      213: 1422206503495878145
+    second: rick-astley-never-gonna-give-you-up_94
+  - first:
+      213: -5969440849887568481
+    second: rick-astley-never-gonna-give-you-up_95
+  - first:
+      213: -8409582219321753429
+    second: rick-astley-never-gonna-give-you-up_96
+  - first:
+      213: 4953485039818570401
+    second: rick-astley-never-gonna-give-you-up_97
+  - first:
+      213: 5358370008254261234
+    second: rick-astley-never-gonna-give-you-up_98
+  - first:
+      213: -676081859703591080
+    second: rick-astley-never-gonna-give-you-up_99
+  - first:
+      213: -8229036054956569584
+    second: rick-astley-never-gonna-give-you-up_100
+  - first:
+      213: -4463390184096566800
+    second: rick-astley-never-gonna-give-you-up_101
+  - first:
+      213: 2576025552076704553
+    second: rick-astley-never-gonna-give-you-up_102
+  - first:
+      213: -5785165044198700244
+    second: rick-astley-never-gonna-give-you-up_103
+  - first:
+      213: 6236372027454525014
+    second: rick-astley-never-gonna-give-you-up_104
+  - first:
+      213: -1103807907299723084
+    second: rick-astley-never-gonna-give-you-up_105
+  - first:
+      213: -4599588307053586371
+    second: rick-astley-never-gonna-give-you-up_106
+  - first:
+      213: -7671332436500980088
+    second: rick-astley-never-gonna-give-you-up_107
+  - first:
+      213: 301086946415209512
+    second: rick-astley-never-gonna-give-you-up_108
+  - first:
+      213: 6767170089426936860
+    second: rick-astley-never-gonna-give-you-up_109
+  - first:
+      213: -1903345405255172969
+    second: rick-astley-never-gonna-give-you-up_110
+  - first:
+      213: -5602537545660154434
+    second: rick-astley-never-gonna-give-you-up_111
+  - first:
+      213: 7016008668066497511
+    second: rick-astley-never-gonna-give-you-up_112
+  - first:
+      213: 5725602156990689109
+    second: rick-astley-never-gonna-give-you-up_113
+  - first:
+      213: -882462010551653383
+    second: rick-astley-never-gonna-give-you-up_114
+  - first:
+      213: 8858324133741596627
+    second: rick-astley-never-gonna-give-you-up_115
+  - first:
+      213: -4011177648886643588
+    second: rick-astley-never-gonna-give-you-up_116
+  - first:
+      213: -8740366079088300600
+    second: rick-astley-never-gonna-give-you-up_117
+  - first:
+      213: 7756388066992556120
+    second: rick-astley-never-gonna-give-you-up_118
+  - first:
+      213: 7467981694136726338
+    second: rick-astley-never-gonna-give-you-up_119
+  - first:
+      213: 6035228287526309826
+    second: rick-astley-never-gonna-give-you-up_120
+  - first:
+      213: -3372641717035483753
+    second: rick-astley-never-gonna-give-you-up_121
+  - first:
+      213: -5560864387310255853
+    second: rick-astley-never-gonna-give-you-up_122
+  - first:
+      213: 7392409028393834150
+    second: rick-astley-never-gonna-give-you-up_123
+  - first:
+      213: -1318137010264694033
+    second: rick-astley-never-gonna-give-you-up_124
+  - first:
+      213: 311860873399452763
+    second: rick-astley-never-gonna-give-you-up_125
+  - first:
+      213: 4932313655510538787
+    second: rick-astley-never-gonna-give-you-up_126
+  - first:
+      213: 5981894396270479912
+    second: rick-astley-never-gonna-give-you-up_127
+  - first:
+      213: 4446719828974066391
+    second: rick-astley-never-gonna-give-you-up_128
+  - first:
+      213: 7949138892565423065
+    second: rick-astley-never-gonna-give-you-up_129
+  - first:
+      213: -2537175755241463174
+    second: rick-astley-never-gonna-give-you-up_130
+  - first:
+      213: 1966287338027303442
+    second: rick-astley-never-gonna-give-you-up_131
+  - first:
+      213: 4863196247376183872
+    second: rick-astley-never-gonna-give-you-up_132
+  - first:
+      213: -2626780631470121732
+    second: rick-astley-never-gonna-give-you-up_133
+  - first:
+      213: 4707494505451380378
+    second: rick-astley-never-gonna-give-you-up_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8626691e89597e6a0800000000000000
+      internalID: -6419998259941055896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1708
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55d4e9a0273f8d10800000000000000
+      internalID: 2129981762198361438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1708
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc212f2840b911a20800000000000000
+      internalID: 3031374467876131535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1708
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb54552b3bdb81ff0800000000000000
+      internalID: -65093615108143681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1708
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007de7190a49c5e40800000000000000
+      internalID: 5646551450172446464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1708
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef49b88ba1551ff0800000000000000
+      internalID: -66056822351900690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_6
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1708
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc3797fe32cc08a0800000000000000
+      internalID: -6337476999919485733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3457dbdcc8912140800000000000000
+      internalID: 4693200292325839935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1281
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fdb309883e43c80800000000000000
+      internalID: -8343794033935786161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1281
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cc8cc61fc559ed0800000000000000
+      internalID: -2407916233777689583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_10
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1281
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a487dd7a14a6bd0800000000000000
+      internalID: -2636222442641012150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_11
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1281
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be8c81ba4e0f0d0800000000000000
+      internalID: -3390959095903622369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_12
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1281
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e1fc232427964d0800000000000000
+      internalID: -3140853636468367838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_13
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1281
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a164366d1db1310800000000000000
+      internalID: 1376924829810563697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8089813ffe0560920800000000000000
+      internalID: 2956139196921190408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 854
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84123d43d4b1ae240800000000000000
+      internalID: 4821696369466220872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_16
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 854
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4096914b0304d0800000000000000
+      internalID: -3169677336411877908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_17
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 854
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa1859c3f3225880800000000000000
+      internalID: -8623790806499059035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_18
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 854
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e33bc735e03d4c0800000000000000
+      internalID: -4264048670452531681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_19
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 854
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed44f52618b7c80800000000000000
+      internalID: -8323917226759102964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_20
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 854
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25609edb04cb75c70800000000000000
+      internalID: 8959836969926985298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a80cea0f8dacd0800000000000000
+      internalID: -2545220937322028547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 427
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff67cd587c273ce0800000000000000
+      internalID: -1425621861558423558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 427
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5898d5ef192193e0800000000000000
+      internalID: -2048811138499962790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_24
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 427
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2dff4793813a2c0800000000000000
+      internalID: -4421663774092569939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_25
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 427
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62d288155cefd40800000000000000
+      internalID: 5620146338972640986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_26
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 427
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe83fb5700a1dc0800000000000000
+      internalID: -3667618440820494507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_27
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 427
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef0e27d6d3163860800000000000000
+      internalID: 7509211242140930027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea49214202affe380800000000000000
+      internalID: -8939651719356050258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e31990d6acbb450800000000000000
+      internalID: 6105696289491598981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e500c9ab59b470800000000000000
+      internalID: 8410854563720323751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_31
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5653ec16f72197f0800000000000000
+      internalID: -607660536718207393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_32
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8fbc72cbdaf4050800000000000000
+      internalID: 5787035069827512501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_33
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a715f0fe651c10800000000000000
+      internalID: 2023645588756080062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rick-astley-never-gonna-give-you-up_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 498
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56062bf472a184870800000000000000
+      internalID: 8667206239017656421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -23,9 +23,11 @@ public class CanvasManager : Singleton<CanvasManager>
 {
     List<CanvasController> canvasControllerList;
     CanvasController lastActiveCanvas;
+    FirebaseAuthManager fb;
 
     protected override void Awake()
     {
+        fb = FindObjectOfType<FirebaseAuthManager>();
         canvasControllerList = GetComponentsInChildren<CanvasController>().ToList();
 
         canvasControllerList.ForEach(x => x.gameObject.SetActive(false));
@@ -46,6 +48,20 @@ public class CanvasManager : Singleton<CanvasManager>
             newCanvas.gameObject.SetActive(true);
             lastActiveCanvas = newCanvas;
         }
+    }
+
+    public void LogIn()
+    {
+        fb.Login();
+    }
+    public void Register()
+    {
+        fb.Login();
+    }
+
+    public void GoogleLogIn()
+    {
+        fb.GoogleLogIn();
     }
 
 }
